@@ -1,0 +1,21 @@
+.bg-website{
+    background-color: #264653;
+    
+}
+.header-bike img{
+    width: 100%;
+}
+.btn-color{
+    background-color: #E76F51;
+}
+.unique-color, .ratings{
+    color: #E76F51;
+}
+.fa-star.empty{
+    color:#AEAEAE;   
+}
+
+.bw-pic{
+    f-webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+  }
